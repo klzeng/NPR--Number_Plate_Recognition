@@ -10,7 +10,6 @@ kernelV = np.array([-1,0,1,-1,0,1,-1,0,1])
 imgConV = cv2.filter2D(img,-1,kernelV)
 
 # sum of each row
-# print "ori y proj\n"
 yProject = img.sum(axis = 1)
 # do convolution on it
 yProjCon = np.convolve(yProject,kernel,"same")
@@ -42,5 +41,3 @@ plt.show()
 print ystart, yend
 img_band = img[ystart:yend,0:img.shape[1]]
 print img_band.shape
-# cv2.imshow("6",img_band)
-# cv2.waitKey(0)
