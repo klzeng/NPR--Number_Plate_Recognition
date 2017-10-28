@@ -3,21 +3,20 @@ import numpy as np
 import cv2
 from matplotlib import pyplot as plt
 
-img = cv2.imread('NP_image6.jpg',0)
+img = cv2.imread('NP_image9.jpg',0)
 print img.shape
-kernelH = np.array([-1,-1,-1,0,0,0,1,1,1])
-kernelV = np.array([-1,0,1,-1,0,1,-1,0,1])
-imgConV = cv2.filter2D(img,-1,kernelV)
+kernelX = np.array([-1,-1,-1,0,0,0,1,1,1]).reshape(3,3)
+kernelY = np.array([-1,0,1,-1,0,1,-1,0,1]).reshape(3,3)
 
-# sum of each row
-# print "ori y proj\n"
-# print img.sum(axis = 1)
+imgConV = cv2.filter2D(img,-1,kernelY)
+
 print "convo y proj"
 yproject = imgConV.sum(axis = 1)
 yPeak = np.max(yproject)
 yPeakIndex = np.argmax(yproject)
 yFoot = 0.55*yPeak
 print yPeak, yFoot
+
 
 # caluculat the vertical coordinate of the band
 ystart = 0
@@ -31,13 +30,21 @@ for each in range(yPeakIndex,len(yproject)):
         yend = each
         break
 
+# plt.plot(yproject)
+# plt.axvline(x=yPeakIndex, color='g')
+# plt.axvline(x=ystart, color='r')
+# plt.axvline(x=yend, color='r')
+# plt.show()
+
 # crop the band out
 img_band = img[ystart:yend,0:img.shape[1]]
+# cv2.imwrite('NP_image6_band.png',img_band)
+
 
 # do horizontal convolution on band(sum of each column)
-bandConH = cv2.filter2D(img_band,-1,kernelH)
+bandConH = cv2.filter2D(img_band,-1,kernelY)
 
-# x-axis project of band convolution
+# # x-axis project of band convolution
 bandProjX = np.sum(bandConH, axis=0)
 xPeak = np.max(bandProjX)
 xPeakIndex = np.argmax(bandProjX)
@@ -46,19 +53,32 @@ xFoot = xPeak*0.55
 xstart = 0
 xend = 0
 for each in range(0,xPeakIndex):
-    if(bandProjX[each] <= xFoot):
+    if(bandProjX[each] >= xFoot):
         xstart = each
+        break
 
 for each in range(xPeakIndex,len(bandProjX)):
-    if(bandProjX[each] <= xFoot):
+    if(bandProjX[each] >= xFoot):
         xend = each
-        break
+
+
 print "xstart: " + str(xstart)
 print "xend: " + str(xend)
 img_crop = img_band[0:yend-ystart, xstart:xend]
 print img_crop.shape
+plt.plot(bandProjX)
+plt.axvline(x=xPeakIndex, color='g')
+plt.axvline(x=xend, color='r')
+plt.axvline(x=xstart, color='r')
+# plt.show()
 
-cv2.imshow("img_crop",img_band)
+cv2.imshow("source", img)
+cv2.waitKey(0)
+
+cv2.imshow("img_band", img_band)
+cv2.waitKey(0)
+
+cv2.imshow("img_crop",img_crop)
 cv2.waitKey(0)
 
 
