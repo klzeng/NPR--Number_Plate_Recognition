@@ -5,8 +5,8 @@ from matplotlib import pyplot as plt
 
 img = cv2.imread('NP_image6.jpg',0)
 print img.shape
-kernelH = np.array([-1,-1,-1,0,0,0,1,1,1]).reshape(3,3)
-kernelV = np.array([-1,0,1,-1,0,1,-1,0,1]).reshape(3,3)
+kernelH = np.array([-1,-1,-1,0,0,0,1,1,1])
+kernelV = np.array([-1,0,1,-1,0,1,-1,0,1])
 imgConV = cv2.filter2D(img,-1,kernelV)
 
 # sum of each row
