@@ -2,6 +2,7 @@
 import numpy as np
 import cv2
 from matplotlib import pyplot as plt
+from scipy import misc
 
 def plot_ProjPlot(projArr, peak, leftbound, rightbound):
     plt.plot(projArr)
@@ -18,9 +19,10 @@ def plot_ProjPlot(projArr, peak, leftbound, rightbound):
 # - if we could figure out the the rank filter to do the convolution, we could easily follow the paper.
 """
 
-def locate_plate(sourceImg):
+def plate_localization(sourceImg):
     # read grey scale image
     img = cv2.imread(sourceImg, 0)
+    # img = cv2.resize(img,(0,0),fx=0.5,fy=0.5)
 
     # kernel matrice for convoution
     kernelX = np.array([-1,-1,-1,0,0,0,1,1,1]).reshape(3,3)
@@ -87,7 +89,8 @@ def locate_plate(sourceImg):
 
     # here we got the plate!
     img_crop = img_band[0:yend-ystart, xstart:xend]
-    print img_crop.shape
+    # cv2.imwrite("grey12.jpg",img_crop)
+    # print img_crop.shape
 
 
     cv2.imshow("source", img)
@@ -99,8 +102,49 @@ def locate_plate(sourceImg):
     cv2.imshow("img_crop",img_crop)
     cv2.waitKey(0)
 
+    return img_crop
+
+def plate_sementation(plate):
+    print plate.shape
+    # for row in range(0,plate.shape[0]):
+    #     for column in range(0,plate.shape[1]):
+    #         if plate[row][column] >= 100:
+    #             plate[row][column] = 255
+    xProjction = np.sum(plate,axis=0)
+    Vm = np.max(xProjction)
+    Va = np.mean(xProjction)
+    Vb = 2*Va - Vm
+    Xm = np.argmax(xProjction)
+    dividePoint = []
+    Xl = 0
+    Xr = 0
+    while xProjction[Xm] >= 0.86*Vm:
+        for x in range(Xm,0,-1):
+            if xProjction[x] <= 0.7*xProjction[Xm]:
+                Xl = x
+                break
+        for x in range(Xm,len(xProjction)):
+            if xProjction[x] <= 0.8*xProjction[Xm]:
+                Xr = x
+                break
+        for x in range(Xl, Xr):
+            xProjction[x] =0
+        dividePoint.append(Xm)
+        Xm = np.argmax(xProjction)
+    dividePoint.sort()
+    characters = []
+    Xr = 0
+    for x in dividePoint:
+        Xl = Xr
+        Xr = x
+        characters.append(plate[0:plate.shape[0], Xl:Xr])
+    characters.append(plate[0:plate.shape[0],dividePoint[-1]:plate.shape[1]])
+    return characters
+
+
 if __name__ == '__main__':
-    locate_plate('NP_image2.jpg')
-
-
-
+    plate = plate_localization('NP_image12.jpg')
+    characters = plate_sementation(plate)
+    for each in characters:
+        cv2.imshow("char", each)
+        cv2.waitKey(0)
