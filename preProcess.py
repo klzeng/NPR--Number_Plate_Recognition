@@ -2,7 +2,6 @@
 import numpy as np
 import cv2
 from matplotlib import pyplot as plt
-from scipy import misc
 
 def plot_ProjPlot(projArr, peak, leftbound, rightbound):
     plt.plot(projArr)
@@ -19,9 +18,12 @@ def plot_ProjPlot(projArr, peak, leftbound, rightbound):
 # - if we could figure out the the rank filter to do the convolution, we could easily follow the paper.
 """
 
-def plate_localization(sourceImg):
+def plate_localization(sourceImg, showProcess = False):
     # read grey scale image
     img = cv2.imread(sourceImg, 0)
+    if img is None:
+        print "failed to read image.\n"
+        exit(1)
     # img = cv2.resize(img,(0,0),fx=0.5,fy=0.5)
 
     # kernel matrice for convoution
@@ -92,20 +94,19 @@ def plate_localization(sourceImg):
     # cv2.imwrite("grey12.jpg",img_crop)
     # print img_crop.shape
 
-
-    cv2.imshow("source", img)
-    cv2.waitKey(0)
-
-    cv2.imshow("img_band", img_band)
-    cv2.waitKey(0)
-
-    cv2.imshow("img_crop",img_crop)
-    cv2.waitKey(0)
+    if showProcess:
+        cv2.imshow("source", img)
+        cv2.waitKey(0)
+        cv2.imshow("img_band", img_band)
+        cv2.waitKey(0)
+        cv2.imshow("img_crop",img_crop)
+        cv2.waitKey(0)
+        cv2.destroyAllWindows()
 
     return img_crop
 
 def plate_sementation(plate):
-    print plate.shape
+    # print plate.shape
     # for row in range(0,plate.shape[0]):
     #     for column in range(0,plate.shape[1]):
     #         if plate[row][column] >= 100:
@@ -132,19 +133,36 @@ def plate_sementation(plate):
         dividePoint.append(Xm)
         Xm = np.argmax(xProjction)
     dividePoint.sort()
-    characters = []
+    segments = []
     Xr = 0
     for x in dividePoint:
         Xl = Xr
         Xr = x
-        characters.append(plate[0:plate.shape[0], Xl:Xr])
-    characters.append(plate[0:plate.shape[0],dividePoint[-1]:plate.shape[1]])
-    return characters
+        segments.append(plate[0:plate.shape[0], Xl:Xr])
+    segments.append(plate[0:plate.shape[0],dividePoint[-1]:plate.shape[1]])
+    segment_binarization(segments)
+    return segments
+
+def segment_binarization(segments):
+    segment_bitmaps = []
+    for segment in segments:
+        bitmap = np.zeros(segment.shape)
+        for row in range(0,segment.shape[0]):
+            for column in range(0,segment.shape[1]):
+                if segment[row][column] <= 128:
+                    segment[row][column] = 0
+                else:
+                    segment[row][column] = 255
+                    bitmap[row][column] = 1
+        segment_bitmaps.append(bitmap)
+    return segment_bitmaps
+
 
 
 if __name__ == '__main__':
-    plate = plate_localization('NP_image12.jpg')
+    plate = plate_localization('NP_image14.jpg', showProcess=True)
     characters = plate_sementation(plate)
     for each in characters:
         cv2.imshow("char", each)
         cv2.waitKey(0)
+    cv2.destroyAllWindows()
