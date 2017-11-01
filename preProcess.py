@@ -51,8 +51,10 @@ def plate_localization(sourceImg, showProcess = False):
             yend = each
             break
 
-    plot_ProjPlot(yproject,yPeak,ystart,yend)
-    # plt.show()
+    # plot_ProjPlot(yproject,yPeak,ystart,yend)
+    # if showProcess:
+    #     plt.title("y project of ori image")
+    #     plt.show()
 
     # crop the band out
     img_band = img[ystart:yend,0:img.shape[1]]
@@ -87,7 +89,9 @@ def plate_localization(sourceImg, showProcess = False):
             xend = each
 
     plot_ProjPlot(bandProjX,xPeakIndex,xstart,xend)
-    # plt.show()
+    if showProcess == True:
+        plt.title("x project of band")
+        plt.show()
 
     # here we got the plate!
     img_crop = img_band[0:yend-ystart, xstart:xend]
@@ -140,9 +144,10 @@ def plate_sementation(plate):
         Xr = x
         segments.append(plate[0:plate.shape[0], Xl:Xr])
     segments.append(plate[0:plate.shape[0],dividePoint[-1]:plate.shape[1]])
-    segment_binarization(segments)
-    return segments
+    return segment_binarization(segments)
+    # return segments
 
+# return 0,1 bitmap, 0-black, 1-white
 def segment_binarization(segments):
     segment_bitmaps = []
     for segment in segments:
@@ -160,9 +165,12 @@ def segment_binarization(segments):
 
 
 if __name__ == '__main__':
-    plate = plate_localization('NP_image14.jpg', showProcess=True)
+    plate = plate_localization('NP_image6.jpg', showProcess=True)
     characters = plate_sementation(plate)
     for each in characters:
         cv2.imshow("char", each)
         cv2.waitKey(0)
     cv2.destroyAllWindows()
+    # a = range(6)
+    # print a
+    # print a.index(9)
