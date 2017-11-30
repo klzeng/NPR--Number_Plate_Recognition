@@ -8,30 +8,48 @@ def get_character_images():
     return
 
 
-
-
-
+# 472 473
 if __name__ == '__main__':
-    plate = prePro.plate_localization('NP_image6.jpg', showProcess=True)
-    characters = prePro.plate_sementation(plate)
 
-    for each in characters:
-        feature = ftExt.ftExt_edges(each)
-        print feature
-        print '\n'
+    i = 91
+    rootpath = "./day_color(large sample)/"
+    for subdir, dirs, files in os.walk(rootpath):
+        for file in files:
+            path = rootpath + file
+            # print path
+            try:
+                plate = prePro.plate_localization(path, showProcess=False)
+                characters, bitmaps = prePro.plate_sementation(plate)
+
+                # for each in characters:
+                #     feature = ftExt.ftExt_edges(each)
+                #     print feature
+                #     print '\n'
+
+                try:
+                    os.mkdir("./trainingData")
+                except:
+                    pass
+                os.chdir("./trainingData")
+                i = i+1
+                for each in characters:
+                    # print each
+                    # cv2.imshow("char", each)
+                    # cv2.waitKey(0)
+                    name = str(i) + ".jpg"
+                    cv2.imwrite(name, each)
+                    i+=1
+                os.chdir("..")
+            except:
+                print "failure for " + path
+                continue
 
 
-    # try:
-    #     os.mkdir("./trainingData")
-    # except:
-    #     pass
-    # os.chdir("./trainingData")
-    # i = 91
-    # for each in characters:
-    #     # cv2.imshow("char", each)
-    #     # cv2.waitKey(0)
-    #     name = str(i) + ".jpg"
-    #     cv2.imwrite(name, each)
-    #     i+=1
 
-    # cv2.destroyAllWindows()
+
+
+
+
+
+
+

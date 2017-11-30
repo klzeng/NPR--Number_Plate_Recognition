@@ -2,12 +2,210 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="891f9d5c-284e-489e-a977-3969620bd9b2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/npy.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NP_image1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NP_image11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NP_image_greyscale.jpg" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NP_image26.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NP_image27.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/33.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/37.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/45.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/51.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/65.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/66.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/67.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/73.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0621.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0624.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0625.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0626.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0627.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0628.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0641.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0645.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0659.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0666.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0675.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0676.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0677.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0686.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0691.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0697.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0698.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0699.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0703.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0707.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0711.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0719.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0723.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0724.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0733.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0734.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0769.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0781.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0784.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0785.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0794.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0798.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0924.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0925.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0932.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0933.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0965.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0966.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0973.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM0979.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1004.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1014.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1039.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1040.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1051.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1067.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1070.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1078.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1081.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1085.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1094.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1095.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1100.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1118.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1133.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1139.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1141.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1142.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1145.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1148.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1150.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1155.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1156.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1158.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1161.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1162.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1163.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1165.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1167.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1170.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1175.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1178.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1179.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1181.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1182.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1184.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1193.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1194.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1195.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1198.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1200.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1205.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1207.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1208.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1210.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1211.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1212.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1215.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1220.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1222.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1226.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1227.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1229.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1235.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1236.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1242.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1244.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1245.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1247.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1248.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1249.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1254.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1255.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1290.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1298.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1300.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1301.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/HPIM1303.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/PHTO0051.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/PHTO0061.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/PHTO0063.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/PHTO0064.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/PHTO0065.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day_very_close_view/PHTO0072.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prepare_data.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NP_image11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NP_image13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NP_image16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NP_image5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NP_image6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/30.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/35.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/36.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/37.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/38.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/39.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/41.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/42.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/44.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/45.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/46.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/47.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/49.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/51.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/52.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/53.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/55.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/56.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/57.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/58.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/59.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/61.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/62.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/63.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/64.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/65.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/66.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/67.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/68.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/70.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/71.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/72.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/73.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/74.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/76.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/79.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/80.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/81.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/82.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/83.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/84.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/85.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/87.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/88.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/89.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/90.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/featureExt.py" afterPath="$PROJECT_DIR$/featureExt.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/npy.py" afterPath="$PROJECT_DIR$/npy.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/preProcess.py" afterPath="$PROJECT_DIR$/preProcess.py" />
     </list>
     <ignored path="beginsWithPython.iws" />
@@ -23,10 +221,11 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/beginsWithPython$tryOpenCV.coverage" NAME="tryOpenCV Coverage Results" MODIFIED="1509316040574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../beginsWithPython" />
-    <SUITE FILE_PATH="coverage/NPR$npy.coverage" NAME="npy Coverage Results" MODIFIED="1509488224732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/NPR$preProcess.coverage" NAME="preProcess Coverage Results" MODIFIED="1509488420371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NPR$npy.coverage" NAME="npy Coverage Results" MODIFIED="1512015550002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NPR$preProcess.coverage" NAME="preProcess Coverage Results" MODIFIED="1512014993568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/beginsWithPython$tryCurcularConvolution.coverage" NAME="tryCurcularConvolution Coverage Results" MODIFIED="1509212248288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../beginsWithPython" />
     <SUITE FILE_PATH="coverage/beginsWithPython$preProcess.coverage" NAME="preProcess Coverage Results" MODIFIED="1509325759136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NPR$dataGen.coverage" NAME="dataGen Coverage Results" MODIFIED="1512063278299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -37,83 +236,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="preProcess.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/preProcess.py">
+      <file leaf-file-name="featureExt.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/featureExt.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="169" column="26" selection-start-line="169" selection-start-column="26" selection-end-line="169" selection-end-column="26" />
-              <folding>
-                <element signature="e#16#34#0" expanded="true" />
-              </folding>
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="npy.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/npy.py">
+      <file leaf-file-name="prepare_data.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prepare_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30373">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding>
-                <element signature="e#16#26#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.1800948">
+              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+              <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="grey12.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grey12.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NP_image2_band.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NP_image2_band.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NP_image3.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NP_image3.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NP_image4.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NP_image4.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NP_image5.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NP_image5.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NP_image6.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NP_image6.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NP_image6_band.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NP_image6_band.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NP_image7.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NP_image7.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -137,6 +276,7 @@
         <option value="$PROJECT_DIR$/featureExt.py" />
         <option value="$PROJECT_DIR$/npy.py" />
         <option value="$PROJECT_DIR$/preProcess.py" />
+        <option value="$PROJECT_DIR$/dataGen.py" />
       </list>
     </option>
   </component>
@@ -146,10 +286,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="151" />
-    <option name="y" value="59" />
-    <option name="width" value="1430" />
-    <option name="height" value="969" />
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -158,7 +296,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -176,7 +314,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -197,6 +334,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -205,8 +343,14 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="true" />
   </component>
-  <component name="RunManager" selected="Python.preProcess">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.dataGen">
     <configuration default="false" name="tryOpenCV" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,6 +419,24 @@
       <module name="NPR" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/npy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="dataGen" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NPR" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prepare_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -472,18 +634,20 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.tryOpenCV" />
       <item index="1" class="java.lang.String" itemvalue="Python.tryCurcularConvolution" />
       <item index="2" class="java.lang.String" itemvalue="Python.preProcess" />
       <item index="3" class="java.lang.String" itemvalue="Python.npy" />
+      <item index="4" class="java.lang.String" itemvalue="Python.dataGen" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.preProcess" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.dataGen" />
         <item index="1" class="java.lang.String" itemvalue="Python.npy" />
-        <item index="2" class="java.lang.String" itemvalue="Python.tryOpenCV" />
-        <item index="3" class="java.lang.String" itemvalue="Python.tryCurcularConvolution" />
+        <item index="2" class="java.lang.String" itemvalue="Python.preProcess" />
+        <item index="3" class="java.lang.String" itemvalue="Python.tryOpenCV" />
+        <item index="4" class="java.lang.String" itemvalue="Python.tryCurcularConvolution" />
       </list>
     </recent_temporary>
   </component>
@@ -501,20 +665,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="151" y="59" width="1430" height="969" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12752162" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13003664" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962963" sideWeight="0.5035842" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30375427" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32764506" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30375427" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3268839" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29920363" sideWeight="0.49641576" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29837066" sideWeight="0.49641576" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3060296" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.305499" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -540,19 +704,19 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/preProcess.py</url>
-          <line>168</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/npy.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
           <url>file://$PROJECT_DIR$/featureExt.py</url>
-          <line>30</line>
+          <line>31</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/preProcess.py</url>
+          <line>199</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/preProcess.py</url>
+          <line>164</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -565,322 +729,276 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="16" />
+      <option name="time" value="31" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="plate.shape" language="Python" />
-        <watch expression="plate[row][column]" language="Python" />
+        <watch expression="len(xProjction)" language="Python" />
+        <watch expression="dividePoint" language="Python" />
+        <watch expression="zeroedIndex" language="Python" />
+        <watch expression="Xm" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/preProcess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#16#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NP_image9.jpg">
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/64.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2410" column="0" selection-start-line="2410" selection-start-column="0" selection-end-line="2410" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preProcess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#16#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tryCurcularConvolution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NP_image2.jpg">
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/65.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NP_image4.png">
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/66.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/preProcess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#16#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preProcess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#16#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NP_image2.jpg">
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/67.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/axes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4136" column="0" selection-start-line="4136" selection-start-column="0" selection-end-line="4136" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/pyplot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2986" column="0" selection-start-line="2986" selection-start-column="0" selection-end-line="2986" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Python/2.7/site-packages/numpy/core/_methods.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Python/2.7/site-packages/numpy/core/fromnumeric.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1833" column="0" selection-start-line="1833" selection-start-column="0" selection-end-line="1833" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NP_image9.jpg">
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/72.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NP_image10.jpg">
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/73.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NP_image12.jpg">
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/74.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NP_image17.jpg">
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/75.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5950267">
-          <caret line="2410" column="0" selection-start-line="2410" selection-start-column="0" selection-end-line="2410" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grey2.jpg">
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/79.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grey9.jpg">
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/88.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tryCurcularConvolution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NP_image2.jpg">
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/89.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trainingData/3.jpg">
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/grey2.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trainingData/4.jpg">
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/HPIM0596.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trainingData/5.jpg">
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/HPIM0597.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trainingData/6.jpg">
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/HPIM0624.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trainingData/7.jpg">
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/HPIM0625.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trainingData/8.jpg">
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/HPIM0626.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NP_image8.jpg">
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/HPIM0627.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NP_image22.jpg">
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/HPIM0641.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NP_image21.jpg">
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/HPIM0659.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NP_image20.jpg">
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/HPIM0675.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NP_image19.png">
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/HPIM0676.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NP_image19.jpg">
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/HPIM0677.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NP_image11.png">
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/HPIM0686.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NP_image13.png">
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/HPIM0691.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file:///Library/Python/2.7/site-packages/numpy/core/numeric.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3321492">
-          <caret line="191" column="0" selection-start-line="191" selection-start-column="0" selection-end-line="191" selection-end-column="0" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/HPIM0697.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/HPIM0698.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/HPIM0699.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/HPIM0703.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/HPIM0707.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/PHTO0072.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/terrastia analysh HPIM1225.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/xenh HPIM1169.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/PHTO0070.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/PHTO0067.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/PHTO0065.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/PHTO0064.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/PHTO0063.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/PHTO0061.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/PHTO0056.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/PHTO0051.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/PHTO0047 me to shma.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/PHTO0048.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/NP_image29.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/NP_image27.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/NP_image26.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/NP_image25.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/NP_image23.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_color(large sample)/PHTO0030.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/featureExt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="92" column="19" selection-start-line="92" selection-start-column="19" selection-end-line="92" selection-end-column="19" />
-          <folding>
-            <element signature="e#17#35#0" expanded="true" />
-          </folding>
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NP_image14.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grey6.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grey12.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NP_image2_band.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NP_image3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NP_image4.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NP_image5.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NP_image7.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NP_image6_band.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NP_image6.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preProcess.py">
+    <entry file="file://$PROJECT_DIR$/prepare_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="169" column="26" selection-start-line="169" selection-start-column="26" selection-end-line="169" selection-end-column="26" />
-          <folding>
-            <element signature="e#16#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/npy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30373">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#16#26#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.1800948">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -89,9 +89,9 @@ def plate_localization(sourceImg, showProcess = False):
             xend = each
 
     plot_ProjPlot(bandProjX,xPeakIndex,xstart,xend)
-    if showProcess == True:
-        plt.title("x project of band")
-        plt.show()
+    # if showProcess == True:
+    #     plt.title("x project of band")
+    #     plt.show()
 
     # here we got the plate!
     img_crop = img_band[0:yend-ystart, xstart:xend]
@@ -120,22 +120,53 @@ def plate_sementation(plate):
     Va = np.mean(xProjction)
     Vb = 2*Va - Vm
     Xm = np.argmax(xProjction)
+    Xl = Xm
+    Xr = Xm
     dividePoint = []
-    Xl = 0
-    Xr = 0
+    x = 0
+    # add an list of the index of already zerod region
+    zeroedIndex = []
     while xProjction[Xm] >= 0.86*Vm:
-        for x in range(Xm,0,-1):
+        lowBound = Xm
+        highBound = Xm
+        if len(zeroedIndex)==0:
+            lowBound = 0
+            highBound = len(xProjction)
+        else:
+            zeroedIndex.sort()
+            if(zeroedIndex[-1] < Xm):
+                highBound = len(xProjction)
+                lowBound = zeroedIndex[-1] + 1
+            if(zeroedIndex[0] > Xm):
+                lowBound =0
+                highBound = zeroedIndex[0] - 1
+            if highBound == Xm or lowBound == Xm:
+                for each in zeroedIndex:
+                    if each < Xm:
+                        lowBound = each
+                    if highBound == Xm and each > highBound:
+                        highBound = each
+        for x in range(Xm,lowBound,-1):
             if xProjction[x] <= 0.7*xProjction[Xm]:
                 Xl = x
                 break
-        for x in range(Xm,len(xProjction)):
+        if x == lowBound+1:
+            Xl = lowBound
+        for x in range(Xm,highBound):
             if xProjction[x] <= 0.8*xProjction[Xm]:
                 Xr = x
                 break
+        if x == highBound-1:
+            Xr = highBound
         for x in range(Xl, Xr):
             xProjction[x] =0
-        dividePoint.append(Xm)
+        zeroedIndex.append(Xl)
+        zeroedIndex.append(Xr)
+        if Xl != lowBound and Xr != highBound:
+            dividePoint.append(Xm)
         Xm = np.argmax(xProjction)
+        # print "zeroedIndex: " + str(zeroedIndex) + '\n'
+        # print "dividePoint: " + str(dividePoint) + '\n'
     dividePoint.sort()
     segments = []
     Xr = 0
@@ -144,7 +175,7 @@ def plate_sementation(plate):
         Xr = x
         segments.append(plate[0:plate.shape[0], Xl:Xr])
     segments.append(plate[0:plate.shape[0],dividePoint[-1]:plate.shape[1]])
-    return segment_binarization(segments)
+    return segments, segment_binarization(segments)
     # return segments
 
 # return 0,1 bitmap, 0-black, 1-white
@@ -154,7 +185,7 @@ def segment_binarization(segments):
         bitmap = np.zeros(segment.shape)
         for row in range(0,segment.shape[0]):
             for column in range(0,segment.shape[1]):
-                if segment[row][column] <= 128:
+                if segment[row][column] <= 110:
                     segment[row][column] = 0
                 else:
                     segment[row][column] = 255
@@ -163,11 +194,12 @@ def segment_binarization(segments):
     return segment_bitmaps
 
 
-
+#./day_color(large sample)/HPIM0596.JPG
 if __name__ == '__main__':
-    plate = plate_localization('NP_image6.jpg', showProcess=True)
+    plate = plate_localization('NP_image14.jpg', showProcess=False)
     characters = plate_sementation(plate)
     for each in characters:
+        # print each
         cv2.imshow("char", each)
         cv2.waitKey(0)
     cv2.destroyAllWindows()

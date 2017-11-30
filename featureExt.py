@@ -14,7 +14,8 @@ We will have two different features:
 '''
 Character edges features:
 - divide to 6 rectangular regions
-- 8 edge types
+- 8 edge types(of 14 differnt bitmap )
+
 - feature vector: 6*8
 -
 - input character should be 0,1 bitmap, 0 for black and 1 for white
