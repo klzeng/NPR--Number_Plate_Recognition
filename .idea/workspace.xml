@@ -2,360 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="891f9d5c-284e-489e-a977-3969620bd9b2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/0_0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5_17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7_0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/A_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/A_11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/I_10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M_24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M_30.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/O_12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/R_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exMNIST.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/npr_clf.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/0/0_6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/1/1_16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/3/3_24.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/5/5_4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/5/5_9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/6/6_26.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/8/8_14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/8/8_19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/8/8_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/9/9_24.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/9/9_25.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/9/9_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/A/A_12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/A/A_18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/A/A_21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/D/D_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/E/E_18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/G/G_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/G/G_5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/K/K_23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/K/K_7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/M/M_17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/R/R_12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingData/Y/Y_15.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/0/0_2.jpg" afterPath="$PROJECT_DIR$/trainingData/0/0_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/0/0_8.jpg" afterPath="$PROJECT_DIR$/trainingData/0/0_8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/0/0_9.jpg" afterPath="$PROJECT_DIR$/trainingData/0/0_9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/1/1_0.jpg" afterPath="$PROJECT_DIR$/trainingData/1/1_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/1/1_14.jpg" afterPath="$PROJECT_DIR$/trainingData/1/1_14.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/1/1_18.jpg" afterPath="$PROJECT_DIR$/trainingData/1/1_18.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/1/1_20.jpg" afterPath="$PROJECT_DIR$/trainingData/1/1_20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/1/1_21.jpg" afterPath="$PROJECT_DIR$/trainingData/1/1_21.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/1/1_22.jpg" afterPath="$PROJECT_DIR$/trainingData/1/1_22.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/1/1_24.jpg" afterPath="$PROJECT_DIR$/trainingData/1/1_24.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/1/1_26.jpg" afterPath="$PROJECT_DIR$/trainingData/1/1_26.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/1/1_27.jpg" afterPath="$PROJECT_DIR$/trainingData/1/1_27.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/1/1_28.jpg" afterPath="$PROJECT_DIR$/trainingData/1/1_28.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/1/1_29.jpg" afterPath="$PROJECT_DIR$/trainingData/1/1_29.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/1/1_3.jpg" afterPath="$PROJECT_DIR$/trainingData/1/1_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/1/1_4.jpg" afterPath="$PROJECT_DIR$/trainingData/1/1_4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/1/1_9.jpg" afterPath="$PROJECT_DIR$/trainingData/1/1_9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/2/2_10.jpg" afterPath="$PROJECT_DIR$/trainingData/2/2_10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/2/2_14.jpg" afterPath="$PROJECT_DIR$/trainingData/2/2_14.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/2/2_15.jpg" afterPath="$PROJECT_DIR$/trainingData/2/2_15.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/2/2_18.jpg" afterPath="$PROJECT_DIR$/trainingData/2/2_18.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/2/2_20.jpg" afterPath="$PROJECT_DIR$/trainingData/2/2_20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/2/2_21.jpg" afterPath="$PROJECT_DIR$/trainingData/2/2_21.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/2/2_23.jpg" afterPath="$PROJECT_DIR$/trainingData/2/2_23.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/2/2_9.jpg" afterPath="$PROJECT_DIR$/trainingData/2/2_9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/3/3_0.jpg" afterPath="$PROJECT_DIR$/trainingData/3/3_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/3/3_11.jpg" afterPath="$PROJECT_DIR$/trainingData/3/3_11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/3/3_15.jpg" afterPath="$PROJECT_DIR$/trainingData/3/3_15.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/3/3_19.jpg" afterPath="$PROJECT_DIR$/trainingData/3/3_19.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/3/3_2.jpg" afterPath="$PROJECT_DIR$/trainingData/3/3_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/3/3_20.jpg" afterPath="$PROJECT_DIR$/trainingData/3/3_20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/3/3_25.jpg" afterPath="$PROJECT_DIR$/trainingData/3/3_25.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/3/3_26.jpg" afterPath="$PROJECT_DIR$/trainingData/3/3_26.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/3/3_27.jpg" afterPath="$PROJECT_DIR$/trainingData/3/3_27.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/3/3_28.jpg" afterPath="$PROJECT_DIR$/trainingData/3/3_28.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/3/3_30.jpg" afterPath="$PROJECT_DIR$/trainingData/3/3_30.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/3/3_31.jpg" afterPath="$PROJECT_DIR$/trainingData/3/3_31.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/3/3_32.jpg" afterPath="$PROJECT_DIR$/trainingData/3/3_32.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/3/3_5.jpg" afterPath="$PROJECT_DIR$/trainingData/3/3_5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/3/3_9.jpg" afterPath="$PROJECT_DIR$/trainingData/3/3_9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/4/4_0.jpg" afterPath="$PROJECT_DIR$/trainingData/4/4_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/4/4_1.jpg" afterPath="$PROJECT_DIR$/trainingData/4/4_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/4/4_10.jpg" afterPath="$PROJECT_DIR$/trainingData/4/4_10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/4/4_12.jpg" afterPath="$PROJECT_DIR$/trainingData/4/4_12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/4/4_13.jpg" afterPath="$PROJECT_DIR$/trainingData/4/4_13.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/4/4_15.jpg" afterPath="$PROJECT_DIR$/trainingData/4/4_15.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/4/4_16.jpg" afterPath="$PROJECT_DIR$/trainingData/4/4_16.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/4/4_17.jpg" afterPath="$PROJECT_DIR$/trainingData/4/4_17.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/4/4_2.jpg" afterPath="$PROJECT_DIR$/trainingData/4/4_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/4/4_20.jpg" afterPath="$PROJECT_DIR$/trainingData/4/4_20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/4/4_21.jpg" afterPath="$PROJECT_DIR$/trainingData/4/4_21.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/4/4_22.jpg" afterPath="$PROJECT_DIR$/trainingData/4/4_22.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/4/4_3.jpg" afterPath="$PROJECT_DIR$/trainingData/4/4_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/4/4_4.jpg" afterPath="$PROJECT_DIR$/trainingData/4/4_4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/4/4_5.jpg" afterPath="$PROJECT_DIR$/trainingData/4/4_5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/4/4_6.jpg" afterPath="$PROJECT_DIR$/trainingData/4/4_6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/4/4_7.jpg" afterPath="$PROJECT_DIR$/trainingData/4/4_7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/4/4_8.jpg" afterPath="$PROJECT_DIR$/trainingData/4/4_8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/5/5_1.jpg" afterPath="$PROJECT_DIR$/trainingData/5/5_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/5/5_11.jpg" afterPath="$PROJECT_DIR$/trainingData/5/5_11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/5/5_12.jpg" afterPath="$PROJECT_DIR$/trainingData/5/5_12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/5/5_19.jpg" afterPath="$PROJECT_DIR$/trainingData/5/5_19.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/5/5_20.jpg" afterPath="$PROJECT_DIR$/trainingData/5/5_20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/5/5_21.jpg" afterPath="$PROJECT_DIR$/trainingData/5/5_21.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/5/5_23.jpg" afterPath="$PROJECT_DIR$/trainingData/5/5_23.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/5/5_5.jpg" afterPath="$PROJECT_DIR$/trainingData/5/5_5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/5/5_7.jpg" afterPath="$PROJECT_DIR$/trainingData/5/5_7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/6/6_0.jpg" afterPath="$PROJECT_DIR$/trainingData/6/6_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/6/6_1.jpg" afterPath="$PROJECT_DIR$/trainingData/6/6_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/6/6_10.jpg" afterPath="$PROJECT_DIR$/trainingData/6/6_10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/6/6_14.jpg" afterPath="$PROJECT_DIR$/trainingData/6/6_14.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/6/6_15.jpg" afterPath="$PROJECT_DIR$/trainingData/6/6_15.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/6/6_16.jpg" afterPath="$PROJECT_DIR$/trainingData/6/6_16.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/6/6_17.jpg" afterPath="$PROJECT_DIR$/trainingData/6/6_17.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/6/6_2.jpg" afterPath="$PROJECT_DIR$/trainingData/6/6_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/6/6_22.jpg" afterPath="$PROJECT_DIR$/trainingData/6/6_22.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/6/6_23.jpg" afterPath="$PROJECT_DIR$/trainingData/6/6_23.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/6/6_24.jpg" afterPath="$PROJECT_DIR$/trainingData/6/6_24.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/6/6_25.jpg" afterPath="$PROJECT_DIR$/trainingData/6/6_25.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/6/6_5.jpg" afterPath="$PROJECT_DIR$/trainingData/6/6_5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/6/6_6.jpg" afterPath="$PROJECT_DIR$/trainingData/6/6_6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/6/6_8.jpg" afterPath="$PROJECT_DIR$/trainingData/6/6_8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/7/7_0.jpg" afterPath="$PROJECT_DIR$/trainingData/7/7_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/7/7_1.jpg" afterPath="$PROJECT_DIR$/trainingData/7/7_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/7/7_11.jpg" afterPath="$PROJECT_DIR$/trainingData/7/7_11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/7/7_12.jpg" afterPath="$PROJECT_DIR$/trainingData/7/7_12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/7/7_13.jpg" afterPath="$PROJECT_DIR$/trainingData/7/7_13.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/7/7_2.jpg" afterPath="$PROJECT_DIR$/trainingData/7/7_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/7/7_3.jpg" afterPath="$PROJECT_DIR$/trainingData/7/7_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/7/7_4.jpg" afterPath="$PROJECT_DIR$/trainingData/7/7_4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/7/7_7.jpg" afterPath="$PROJECT_DIR$/trainingData/7/7_7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/7/7_8.jpg" afterPath="$PROJECT_DIR$/trainingData/7/7_8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/7/7_9.jpg" afterPath="$PROJECT_DIR$/trainingData/7/7_9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/8/8_0.jpg" afterPath="$PROJECT_DIR$/trainingData/8/8_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/8/8_1.jpg" afterPath="$PROJECT_DIR$/trainingData/8/8_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/8/8_11.jpg" afterPath="$PROJECT_DIR$/trainingData/8/8_11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/8/8_15.jpg" afterPath="$PROJECT_DIR$/trainingData/8/8_15.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/8/8_17.jpg" afterPath="$PROJECT_DIR$/trainingData/8/8_17.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/8/8_20.jpg" afterPath="$PROJECT_DIR$/trainingData/8/8_20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/8/8_23.jpg" afterPath="$PROJECT_DIR$/trainingData/8/8_23.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/8/8_24.jpg" afterPath="$PROJECT_DIR$/trainingData/8/8_24.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/8/8_25.jpg" afterPath="$PROJECT_DIR$/trainingData/8/8_25.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/8/8_26.jpg" afterPath="$PROJECT_DIR$/trainingData/8/8_26.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/8/8_27.jpg" afterPath="$PROJECT_DIR$/trainingData/8/8_27.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/8/8_28.jpg" afterPath="$PROJECT_DIR$/trainingData/8/8_28.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/8/8_3.jpg" afterPath="$PROJECT_DIR$/trainingData/8/8_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/8/8_30.jpg" afterPath="$PROJECT_DIR$/trainingData/8/8_30.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/8/8_31.jpg" afterPath="$PROJECT_DIR$/trainingData/8/8_31.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/8/8_32.jpg" afterPath="$PROJECT_DIR$/trainingData/8/8_32.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/8/8_33.jpg" afterPath="$PROJECT_DIR$/trainingData/8/8_33.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/8/8_8.jpg" afterPath="$PROJECT_DIR$/trainingData/8/8_8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/8/8_9.jpg" afterPath="$PROJECT_DIR$/trainingData/8/8_9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/9/9_0.jpg" afterPath="$PROJECT_DIR$/trainingData/9/9_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/9/9_1.jpg" afterPath="$PROJECT_DIR$/trainingData/9/9_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/9/9_10.jpg" afterPath="$PROJECT_DIR$/trainingData/9/9_10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/9/9_11.jpg" afterPath="$PROJECT_DIR$/trainingData/9/9_11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/9/9_12.jpg" afterPath="$PROJECT_DIR$/trainingData/9/9_12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/9/9_13.jpg" afterPath="$PROJECT_DIR$/trainingData/9/9_13.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/9/9_18.jpg" afterPath="$PROJECT_DIR$/trainingData/9/9_18.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/9/9_19.jpg" afterPath="$PROJECT_DIR$/trainingData/9/9_19.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/9/9_2.jpg" afterPath="$PROJECT_DIR$/trainingData/9/9_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/9/9_20.jpg" afterPath="$PROJECT_DIR$/trainingData/9/9_20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/9/9_21.jpg" afterPath="$PROJECT_DIR$/trainingData/9/9_21.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/9/9_22.jpg" afterPath="$PROJECT_DIR$/trainingData/9/9_22.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/9/9_23.jpg" afterPath="$PROJECT_DIR$/trainingData/9/9_23.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/9/9_26.jpg" afterPath="$PROJECT_DIR$/trainingData/9/9_26.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/9/9_27.jpg" afterPath="$PROJECT_DIR$/trainingData/9/9_27.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/9/9_4.jpg" afterPath="$PROJECT_DIR$/trainingData/9/9_4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/9/9_5.jpg" afterPath="$PROJECT_DIR$/trainingData/9/9_5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/9/9_7.jpg" afterPath="$PROJECT_DIR$/trainingData/9/9_7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/9/9_9.jpg" afterPath="$PROJECT_DIR$/trainingData/9/9_9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/A/A_0.jpg" afterPath="$PROJECT_DIR$/trainingData/A/A_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/A/A_10.jpg" afterPath="$PROJECT_DIR$/trainingData/A/A_10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/A/A_13.jpg" afterPath="$PROJECT_DIR$/trainingData/A/A_13.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/A/A_16.jpg" afterPath="$PROJECT_DIR$/trainingData/A/A_16.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/A/A_17.jpg" afterPath="$PROJECT_DIR$/trainingData/A/A_17.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/A/A_22.jpg" afterPath="$PROJECT_DIR$/trainingData/A/A_22.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/A/A_24.jpg" afterPath="$PROJECT_DIR$/trainingData/A/A_24.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/A/A_6.jpg" afterPath="$PROJECT_DIR$/trainingData/A/A_6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/A/A_8.jpg" afterPath="$PROJECT_DIR$/trainingData/A/A_8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/A/A_9.jpg" afterPath="$PROJECT_DIR$/trainingData/A/A_9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/B/B_0.jpg" afterPath="$PROJECT_DIR$/trainingData/B/B_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/B/B_1.jpg" afterPath="$PROJECT_DIR$/trainingData/B/B_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/B/B_10.jpg" afterPath="$PROJECT_DIR$/trainingData/B/B_10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/B/B_11.jpg" afterPath="$PROJECT_DIR$/trainingData/B/B_11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/B/B_12.jpg" afterPath="$PROJECT_DIR$/trainingData/B/B_12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/B/B_16.jpg" afterPath="$PROJECT_DIR$/trainingData/B/B_16.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/B/B_17.jpg" afterPath="$PROJECT_DIR$/trainingData/B/B_17.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/B/B_18.jpg" afterPath="$PROJECT_DIR$/trainingData/B/B_18.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/B/B_19.jpg" afterPath="$PROJECT_DIR$/trainingData/B/B_19.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/B/B_20.jpg" afterPath="$PROJECT_DIR$/trainingData/B/B_20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/B/B_6.jpg" afterPath="$PROJECT_DIR$/trainingData/B/B_6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/C/C_0.jpg" afterPath="$PROJECT_DIR$/trainingData/C/C_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/C/C_3.jpg" afterPath="$PROJECT_DIR$/trainingData/C/C_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/C/C_4.jpg" afterPath="$PROJECT_DIR$/trainingData/C/C_4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/C/C_5.jpg" afterPath="$PROJECT_DIR$/trainingData/C/C_5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/C/C_6.jpg" afterPath="$PROJECT_DIR$/trainingData/C/C_6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/C/C_9.jpg" afterPath="$PROJECT_DIR$/trainingData/C/C_9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/D/D_13.jpg" afterPath="$PROJECT_DIR$/trainingData/D/D_13.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/D/D_2.jpg" afterPath="$PROJECT_DIR$/trainingData/D/D_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/D/D_3.jpg" afterPath="$PROJECT_DIR$/trainingData/D/D_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/D/D_7.jpg" afterPath="$PROJECT_DIR$/trainingData/D/D_7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/D/D_9.jpg" afterPath="$PROJECT_DIR$/trainingData/D/D_9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/E/E_11.jpg" afterPath="$PROJECT_DIR$/trainingData/E/E_11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/E/E_14.jpg" afterPath="$PROJECT_DIR$/trainingData/E/E_14.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/E/E_2.jpg" afterPath="$PROJECT_DIR$/trainingData/E/E_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/E/E_4.jpg" afterPath="$PROJECT_DIR$/trainingData/E/E_4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/E/E_6.jpg" afterPath="$PROJECT_DIR$/trainingData/E/E_6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/F/F_0.jpg" afterPath="$PROJECT_DIR$/trainingData/F/F_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/F/F_1.jpg" afterPath="$PROJECT_DIR$/trainingData/F/F_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/F/F_2.jpg" afterPath="$PROJECT_DIR$/trainingData/F/F_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/G/G_0.jpg" afterPath="$PROJECT_DIR$/trainingData/G/G_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/G/G_10.jpg" afterPath="$PROJECT_DIR$/trainingData/G/G_10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/G/G_13.jpg" afterPath="$PROJECT_DIR$/trainingData/G/G_13.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/G/G_19.jpg" afterPath="$PROJECT_DIR$/trainingData/G/G_19.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/G/G_6.jpg" afterPath="$PROJECT_DIR$/trainingData/G/G_6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/G/G_8.jpg" afterPath="$PROJECT_DIR$/trainingData/G/G_8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/G/G_9.jpg" afterPath="$PROJECT_DIR$/trainingData/G/G_9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/H/H_18.jpg" afterPath="$PROJECT_DIR$/trainingData/H/H_18.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/H/H_2.jpg" afterPath="$PROJECT_DIR$/trainingData/H/H_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/H/H_5.jpg" afterPath="$PROJECT_DIR$/trainingData/H/H_5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/H/H_8.jpg" afterPath="$PROJECT_DIR$/trainingData/H/H_8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/I/I_0.jpg" afterPath="$PROJECT_DIR$/trainingData/I/I_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/I/I_12.jpg" afterPath="$PROJECT_DIR$/trainingData/I/I_12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/I/I_16.jpg" afterPath="$PROJECT_DIR$/trainingData/I/I_16.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/I/I_3.jpg" afterPath="$PROJECT_DIR$/trainingData/I/I_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/I/I_9.jpg" afterPath="$PROJECT_DIR$/trainingData/I/I_9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/J/J_0.jpg" afterPath="$PROJECT_DIR$/trainingData/J/J_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/J/J_1.jpg" afterPath="$PROJECT_DIR$/trainingData/J/J_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/J/J_10.jpg" afterPath="$PROJECT_DIR$/trainingData/J/J_10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/J/J_3.jpg" afterPath="$PROJECT_DIR$/trainingData/J/J_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/J/J_5.jpg" afterPath="$PROJECT_DIR$/trainingData/J/J_5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/J/J_6.jpg" afterPath="$PROJECT_DIR$/trainingData/J/J_6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/J/J_7.jpg" afterPath="$PROJECT_DIR$/trainingData/J/J_7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/J/J_8.jpg" afterPath="$PROJECT_DIR$/trainingData/J/J_8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/K/K_0.jpg" afterPath="$PROJECT_DIR$/trainingData/K/K_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/K/K_1.jpg" afterPath="$PROJECT_DIR$/trainingData/K/K_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/K/K_10.jpg" afterPath="$PROJECT_DIR$/trainingData/K/K_10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/K/K_11.jpg" afterPath="$PROJECT_DIR$/trainingData/K/K_11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/K/K_12.jpg" afterPath="$PROJECT_DIR$/trainingData/K/K_12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/K/K_13.jpg" afterPath="$PROJECT_DIR$/trainingData/K/K_13.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/K/K_15.jpg" afterPath="$PROJECT_DIR$/trainingData/K/K_15.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/K/K_16.jpg" afterPath="$PROJECT_DIR$/trainingData/K/K_16.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/K/K_17.jpg" afterPath="$PROJECT_DIR$/trainingData/K/K_17.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/K/K_19.jpg" afterPath="$PROJECT_DIR$/trainingData/K/K_19.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/K/K_2.jpg" afterPath="$PROJECT_DIR$/trainingData/K/K_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/K/K_20.jpg" afterPath="$PROJECT_DIR$/trainingData/K/K_20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/K/K_21.jpg" afterPath="$PROJECT_DIR$/trainingData/K/K_21.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/K/K_22.jpg" afterPath="$PROJECT_DIR$/trainingData/K/K_22.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/K/K_4.jpg" afterPath="$PROJECT_DIR$/trainingData/K/K_4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/K/K_9.jpg" afterPath="$PROJECT_DIR$/trainingData/K/K_9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/L/L_10.jpg" afterPath="$PROJECT_DIR$/trainingData/L/L_10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/M/M_0.jpg" afterPath="$PROJECT_DIR$/trainingData/M/M_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/M/M_10.jpg" afterPath="$PROJECT_DIR$/trainingData/M/M_10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/M/M_11.jpg" afterPath="$PROJECT_DIR$/trainingData/M/M_11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/M/M_12.jpg" afterPath="$PROJECT_DIR$/trainingData/M/M_12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/M/M_14.jpg" afterPath="$PROJECT_DIR$/trainingData/M/M_14.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/M/M_15.jpg" afterPath="$PROJECT_DIR$/trainingData/M/M_15.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/M/M_16.jpg" afterPath="$PROJECT_DIR$/trainingData/M/M_16.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/M/M_2.jpg" afterPath="$PROJECT_DIR$/trainingData/M/M_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/M/M_20.jpg" afterPath="$PROJECT_DIR$/trainingData/M/M_20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/M/M_21.jpg" afterPath="$PROJECT_DIR$/trainingData/M/M_21.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/M/M_23.jpg" afterPath="$PROJECT_DIR$/trainingData/M/M_23.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/M/M_24.jpg" afterPath="$PROJECT_DIR$/trainingData/M/M_24.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/M/M_26.jpg" afterPath="$PROJECT_DIR$/trainingData/M/M_26.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/M/M_27.jpg" afterPath="$PROJECT_DIR$/trainingData/M/M_27.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/M/M_28.jpg" afterPath="$PROJECT_DIR$/trainingData/M/M_28.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/M/M_29.jpg" afterPath="$PROJECT_DIR$/trainingData/M/M_29.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/M/M_3.jpg" afterPath="$PROJECT_DIR$/trainingData/M/M_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/M/M_30.jpg" afterPath="$PROJECT_DIR$/trainingData/M/M_30.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/M/M_5.jpg" afterPath="$PROJECT_DIR$/trainingData/M/M_5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/M/M_6.jpg" afterPath="$PROJECT_DIR$/trainingData/M/M_6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/M/M_7.jpg" afterPath="$PROJECT_DIR$/trainingData/M/M_7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/M/M_8.jpg" afterPath="$PROJECT_DIR$/trainingData/M/M_8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/N/N_13.jpg" afterPath="$PROJECT_DIR$/trainingData/N/N_13.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/N/N_16.jpg" afterPath="$PROJECT_DIR$/trainingData/N/N_16.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/N/N_18.jpg" afterPath="$PROJECT_DIR$/trainingData/N/N_18.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/N/N_2.jpg" afterPath="$PROJECT_DIR$/trainingData/N/N_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/N/N_3.jpg" afterPath="$PROJECT_DIR$/trainingData/N/N_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/O/O_5.jpg" afterPath="$PROJECT_DIR$/trainingData/O/O_5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/O/O_7.jpg" afterPath="$PROJECT_DIR$/trainingData/O/O_7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/P/P_1.jpg" afterPath="$PROJECT_DIR$/trainingData/P/P_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/P/P_14.jpg" afterPath="$PROJECT_DIR$/trainingData/P/P_14.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/P/P_2.jpg" afterPath="$PROJECT_DIR$/trainingData/P/P_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/P/P_4.jpg" afterPath="$PROJECT_DIR$/trainingData/P/P_4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/P/P_5.jpg" afterPath="$PROJECT_DIR$/trainingData/P/P_5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/P/P_7.jpg" afterPath="$PROJECT_DIR$/trainingData/P/P_7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Q/Q_2.jpg" afterPath="$PROJECT_DIR$/trainingData/Q/Q_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Q/Q_4.jpg" afterPath="$PROJECT_DIR$/trainingData/Q/Q_4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Q/Q_5.jpg" afterPath="$PROJECT_DIR$/trainingData/Q/Q_5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Q/Q_8.jpg" afterPath="$PROJECT_DIR$/trainingData/Q/Q_8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/R/R_16.jpg" afterPath="$PROJECT_DIR$/trainingData/R/R_16.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/R/R_18.jpg" afterPath="$PROJECT_DIR$/trainingData/R/R_18.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/S/S_11.jpg" afterPath="$PROJECT_DIR$/trainingData/S/S_11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/S/S_14.jpg" afterPath="$PROJECT_DIR$/trainingData/S/S_14.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/S/S_17.jpg" afterPath="$PROJECT_DIR$/trainingData/S/S_17.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/S/S_18.jpg" afterPath="$PROJECT_DIR$/trainingData/S/S_18.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/S/S_5.jpg" afterPath="$PROJECT_DIR$/trainingData/S/S_5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/S/S_7.jpg" afterPath="$PROJECT_DIR$/trainingData/S/S_7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/S/S_8.jpg" afterPath="$PROJECT_DIR$/trainingData/S/S_8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/S/S_9.jpg" afterPath="$PROJECT_DIR$/trainingData/S/S_9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/T/T_1.jpg" afterPath="$PROJECT_DIR$/trainingData/T/T_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/T/T_11.jpg" afterPath="$PROJECT_DIR$/trainingData/T/T_11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/T/T_4.jpg" afterPath="$PROJECT_DIR$/trainingData/T/T_4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/T/T_6.jpg" afterPath="$PROJECT_DIR$/trainingData/T/T_6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/T/T_8.jpg" afterPath="$PROJECT_DIR$/trainingData/T/T_8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/T/T_9.jpg" afterPath="$PROJECT_DIR$/trainingData/T/T_9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/U/U_1.jpg" afterPath="$PROJECT_DIR$/trainingData/U/U_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/U/U_4.jpg" afterPath="$PROJECT_DIR$/trainingData/U/U_4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/U/U_5.jpg" afterPath="$PROJECT_DIR$/trainingData/U/U_5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/U/U_6.jpg" afterPath="$PROJECT_DIR$/trainingData/U/U_6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/V/V_4.jpg" afterPath="$PROJECT_DIR$/trainingData/V/V_4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/W/W_0.jpg" afterPath="$PROJECT_DIR$/trainingData/W/W_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/W/W_12.jpg" afterPath="$PROJECT_DIR$/trainingData/W/W_12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/W/W_4.jpg" afterPath="$PROJECT_DIR$/trainingData/W/W_4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/W/W_5.jpg" afterPath="$PROJECT_DIR$/trainingData/W/W_5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/X/X_1.jpg" afterPath="$PROJECT_DIR$/trainingData/X/X_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/X/X_2.jpg" afterPath="$PROJECT_DIR$/trainingData/X/X_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/X/X_3.jpg" afterPath="$PROJECT_DIR$/trainingData/X/X_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/X/X_4.jpg" afterPath="$PROJECT_DIR$/trainingData/X/X_4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/X/X_5.jpg" afterPath="$PROJECT_DIR$/trainingData/X/X_5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/X/X_6.jpg" afterPath="$PROJECT_DIR$/trainingData/X/X_6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/X/X_7.jpg" afterPath="$PROJECT_DIR$/trainingData/X/X_7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/X/X_8.jpg" afterPath="$PROJECT_DIR$/trainingData/X/X_8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Y/Y_0.jpg" afterPath="$PROJECT_DIR$/trainingData/Y/Y_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Y/Y_1.jpg" afterPath="$PROJECT_DIR$/trainingData/Y/Y_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Y/Y_10.jpg" afterPath="$PROJECT_DIR$/trainingData/Y/Y_10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Y/Y_11.jpg" afterPath="$PROJECT_DIR$/trainingData/Y/Y_11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Y/Y_12.jpg" afterPath="$PROJECT_DIR$/trainingData/Y/Y_12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Y/Y_14.jpg" afterPath="$PROJECT_DIR$/trainingData/Y/Y_14.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Y/Y_16.jpg" afterPath="$PROJECT_DIR$/trainingData/Y/Y_16.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Y/Y_17.jpg" afterPath="$PROJECT_DIR$/trainingData/Y/Y_17.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Y/Y_18.jpg" afterPath="$PROJECT_DIR$/trainingData/Y/Y_18.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Y/Y_19.jpg" afterPath="$PROJECT_DIR$/trainingData/Y/Y_19.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Y/Y_2.jpg" afterPath="$PROJECT_DIR$/trainingData/Y/Y_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Y/Y_20.jpg" afterPath="$PROJECT_DIR$/trainingData/Y/Y_20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Y/Y_21.jpg" afterPath="$PROJECT_DIR$/trainingData/Y/Y_21.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Y/Y_3.jpg" afterPath="$PROJECT_DIR$/trainingData/Y/Y_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Y/Y_4.jpg" afterPath="$PROJECT_DIR$/trainingData/Y/Y_4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Y/Y_5.jpg" afterPath="$PROJECT_DIR$/trainingData/Y/Y_5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Y/Y_6.jpg" afterPath="$PROJECT_DIR$/trainingData/Y/Y_6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Y/Y_7.jpg" afterPath="$PROJECT_DIR$/trainingData/Y/Y_7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Y/Y_8.jpg" afterPath="$PROJECT_DIR$/trainingData/Y/Y_8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Z/Z_0.jpg" afterPath="$PROJECT_DIR$/trainingData/Z/Z_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Z/Z_1.jpg" afterPath="$PROJECT_DIR$/trainingData/Z/Z_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Z/Z_10.jpg" afterPath="$PROJECT_DIR$/trainingData/Z/Z_10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Z/Z_13.jpg" afterPath="$PROJECT_DIR$/trainingData/Z/Z_13.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Z/Z_17.jpg" afterPath="$PROJECT_DIR$/trainingData/Z/Z_17.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Z/Z_18.jpg" afterPath="$PROJECT_DIR$/trainingData/Z/Z_18.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Z/Z_5.jpg" afterPath="$PROJECT_DIR$/trainingData/Z/Z_5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Z/Z_6.jpg" afterPath="$PROJECT_DIR$/trainingData/Z/Z_6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainingData/Z/Z_7.jpg" afterPath="$PROJECT_DIR$/trainingData/Z/Z_7.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/featureExt.py" afterPath="$PROJECT_DIR$/featureExt.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/preProcess.py" afterPath="$PROJECT_DIR$/preProcess.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prepare_data.py" afterPath="$PROJECT_DIR$/prepare_data.py" />
     </list>
     <ignored path="beginsWithPython.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -422,8 +69,8 @@
       <file leaf-file-name="npr_clf.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/npr_clf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.66172105">
-              <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.1289833">
+              <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
               <folding>
                 <element signature="e#16#26#0" expanded="true" />
               </folding>
@@ -894,7 +541,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13003664" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -902,9 +549,9 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30306122" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28367347" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28367347" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29897958" sideWeight="0.49641576" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29897958" sideWeight="0.49641576" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37653062" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1318,8 +965,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/npr_clf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.66172105">
-          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.1289833">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding>
             <element signature="e#16#26#0" expanded="true" />
           </folding>
