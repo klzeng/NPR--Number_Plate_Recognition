@@ -3,6 +3,7 @@ import numpy as np
 import cv2
 from matplotlib import pyplot as plt
 
+
 def plot_ProjPlot(projArr, peak, leftbound, rightbound):
     plt.plot(projArr)
     plt.axvline(x=peak, color='g')
