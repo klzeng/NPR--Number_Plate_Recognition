@@ -23,6 +23,7 @@ Character edges features:
 '''
 def ftExt_edges(character):
     bitmap = patch_bitmap(character)
+    # print bitmap
     # 6 regions totally
     ftr = np.zeros(48)
     regionWidth = (int)(bitmap.shape[1]/2)

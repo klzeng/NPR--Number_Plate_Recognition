@@ -58,7 +58,7 @@ def extract_train_char(rootpath):
 
 def extract_from_sigle_plate():
     i=40
-    plate = prePro.plate_localization('NP_image26.jpg', showProcess=False)
+    plate = prePro.plate_localization('NP_image14.jpg', showProcess=False)
     characters, bitmaps = prePro.plate_sementation(plate)
 
     # for each in characters:

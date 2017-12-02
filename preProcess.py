@@ -110,7 +110,7 @@ def plate_localization(sourceImg, showProcess = False):
 
     return img_crop
 
-def plate_sementation(plate):
+def plate_sementation(plate, showProcess=False):
     # print plate.shape
     # for row in range(0,plate.shape[0]):
     #     for column in range(0,plate.shape[1]):
@@ -176,8 +176,14 @@ def plate_sementation(plate):
         Xr = x
         segments.append(plate[0:plate.shape[0], Xl:Xr])
     segments.append(plate[0:plate.shape[0],dividePoint[-1]:plate.shape[1]])
-    return segments, segment_binarization(segments)
-    # return segments
+    bitmaps = segment_binarization(segments)
+    if showProcess:
+        for each in bitmaps:
+            # print each
+            cv2.imshow("char", each)
+            cv2.waitKey(0)
+        cv2.destroyAllWindows()
+    return segments, bitmaps
 
 # return 0,1 bitmap, 0-black, 1-white
 def segment_binarization(segments):
