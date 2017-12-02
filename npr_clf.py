@@ -176,4 +176,4 @@ if __name__ == '__main__':
     # clf = gen_clf_neupy('ftrNlabels')
     clf = gen_clf_KNN('ftrNlabels')
     # demo_KNN(clf)
-    demo_NPR(clf,showProcess=True)
+    demo_NPR(clf,showProcess=False)
