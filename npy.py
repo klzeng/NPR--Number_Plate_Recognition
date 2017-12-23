@@ -1,7 +1,7 @@
 # coding: utf-8
 import cv2
-import preProcess as prePro
-import featureExt as ftExt
+import pre_process as prePro
+import feature_ext as ftExt
 import os
 
 def get_character_images():

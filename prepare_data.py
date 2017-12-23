@@ -1,7 +1,7 @@
 # coding: utf-8
 import cv2
-import preProcess as prePro
-import featureExt as ftExt
+import pre_process as prePro
+import feature_ext as ftExt
 import os
 import numpy as np
 import pandas as pd
@@ -131,6 +131,25 @@ def gen_ftrNlabels(rootpath, ftr_save_path):
             out.write(str(char2index_dict))
 
 
+def gen_ftrNlabels_digits():
+    img = cv2.imread('digits.png')
+    gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
+    # Now we split the image to 5000 cells, each 20x20 size
+    cells = [np.hsplit(row,100) for row in np.vsplit(gray,50)]
+    digits = np.array(cells).reshape(5000,400)
+
+    for i in range(0,10):
+        print i
+        datas = []
+        for j in range(0,500):
+            digit = digits[i*500+j].reshape(20,20)
+            bitmap = prePro.segment_binarization_digits([digit])
+            ftrs = ftExt.ftExt_edges(bitmap[0])
+            ftrsNLabel = np.append(ftrs,i)
+            datas.append(ftrsNLabel)
+        df = pd.DataFrame(data=datas)
+        df.to_csv("digits/"+ str(i) + ".csv", header=False)
+
 
 # 472 473
 if __name__ == '__main__':
@@ -138,7 +157,7 @@ if __name__ == '__main__':
     # extract_from_sigle_plate()
     # rename_train_char('train10X20')
     gen_ftrNlabels('trainingData','ftrNlabels')
-    # conver2BW('train10X20', 'trainingData')
+    # convert_2BW('train10X20', 'trainingData')
 
 
 

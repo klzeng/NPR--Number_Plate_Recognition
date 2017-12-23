@@ -17,4 +17,9 @@ def test():
     print results
 
 if __name__ == '__main__':
-    test()
+    a = np.array([1,1,0,0])
+    b = np.array([1,0,1,1])
+    print a.size
+    match = a ==b
+    print match
+    print np.count_nonzero(match)

@@ -2,7 +2,7 @@
 
 import numpy as np
 import cv2
-import preProcess as prePro
+import pre_process as prePro
 
 '''
 We will have two different features:

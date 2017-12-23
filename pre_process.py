@@ -200,6 +200,20 @@ def segment_binarization(segments):
         segment_bitmaps.append(bitmap)
     return segment_bitmaps
 
+# for digits dataset binarization
+def segment_binarization_digits(segments):
+    segment_bitmaps = []
+    for segment in segments:
+        bitmap = np.zeros(segment.shape)
+        for row in range(0,segment.shape[0]):
+            for column in range(0,segment.shape[1]):
+                if segment[row][column] == 0:
+                    bitmap[row][column] = 1
+                else:
+                    bitmap[row][column] = 0
+        segment_bitmaps.append(bitmap)
+    return segment_bitmaps
+
 
 #./day_color(large sample)/HPIM0596.JPG
 if __name__ == '__main__':
