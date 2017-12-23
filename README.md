@@ -18,10 +18,22 @@ The whole project could be divided into:
 - Feature Extraction        -- featureExt.py
 - Plate Reconition          -- npr_clf.py
 
-Process Illustration:
-![alt text](https://raw.githubusercontent.com/NPR--Number_Plate_Recognition/master/process_illustration.png)
 -------------------------------------------------------
 _MORE DETAIL_
 
 __PreProcessing__
-- We use the double-phase statisc analysis to achieve plate localization
+- We use the double-phase statisc analysis to achieve plate localization, which is based on the frequence variance. 
+- after located the plcate, we clip it out, d the character segmentation. 
+
+__Featrue Extartion__
+- The features we used for this Project is character edge:
+  - 6 regions per character
+  - 8 edge types,
+  - feature vector length: 6*8
+  
+__Clissifier__
+  - we use the KNN classifier. 
+ 
+-------------------------------------------------------
+The project basically follow this book:
+http://javaanpr.sourceforge.net/anpr.pdf
