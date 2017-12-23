@@ -18,8 +18,8 @@ The whole project could be divided into:
 - Feature Extraction        -- featureExt.py
 - Plate Reconition          -- npr_clf.py
 
-Process Visualization:
-
+Process Illustration:
+![alt text](https://raw.githubusercontent.com/NPR--Number_Plate_Recognition/master/process_illustration.png)
 -------------------------------------------------------
 _MORE DETAIL_
 
