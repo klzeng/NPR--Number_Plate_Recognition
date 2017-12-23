@@ -7,7 +7,7 @@ Its not of perfect result now, but its easy to get started if you are interested
 To demo this Project:
   - run npr_clf.py
   - enter the image names in directory 'demoData', 'demoData/NP_image1.jpg' for instance(the outcome does include noise).
-  - if you wanna visualize the process, set the 'showProcess = True'  for function demo_NPR.   
+  - if you want to visualize the process, set the 'showProcess = True'  for function demo_NPR.   
    
 -------------------------------------------------------
 
@@ -18,6 +18,9 @@ The whole project could be divided into:
 - Feature Extraction        -- featureExt.py
 - Plate Reconition          -- npr_clf.py
 
+Process Illustration
+
+![Alt text](./process_illustration.png?raw=true "Title")
 -------------------------------------------------------
 _MORE DETAIL_
 
