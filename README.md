@@ -25,8 +25,8 @@ Process Illustration
 _MORE DETAIL_
 
 __PreProcessing__
-- We use the double-phase statisc analysis to achieve plate localization, which is based on the frequence variance. 
-- after located the plcate, we clip it out, d the character segmentation. 
+- We use the double-phase statistical analysis to achieve plate localization, which is based on the frequence variance. 
+- after located the plcate, we clip it out, do the character segmentation. 
 
 __Featrue Extartion__
 - The features we used for this Project is character edge:
