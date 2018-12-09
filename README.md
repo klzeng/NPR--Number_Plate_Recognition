@@ -1,7 +1,7 @@
 # NPR--Number_Plate_Recognition
 
 This is my course project for Pattern Recoginition. 
-The Goal is to develop a Number Plate Recognition System, which could tell what's the number plate on the input image. 
+The goal is to develop a Number Plate Recognition System, which could tell what's the number plate on the input image. 
 Its not of perfect result now, but its easy to get started if you are interested.
 
 To demo this Project:
